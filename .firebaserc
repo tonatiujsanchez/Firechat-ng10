@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-9315b": {
+      "hosting": {
+        "firechat": [
+          "firechat-9315b"
+        ]
+      }
+    }
+  }
+}
